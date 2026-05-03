@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "adf-road-safety-dev-mm-01015"
+        },
+        "ls_adls_roadsafety_properties_typeProperties_url": {
+            "value": "https://stroadsafetydevmm0105.dfs.core.windows.net/"
+        },
+        "ls_http_tps_ksi_source_properties_typeProperties_url": {
+            "value": "https://stg-arcgisazurecdataprod.az.arcgis.com/exportfiles-6104-19483/"
+        }
+    }
+}
