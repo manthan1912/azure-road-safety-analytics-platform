@@ -218,9 +218,6 @@ The dashboard shows:
 ```text
 azure-road-safety-analytics-platform/
 ├── adf/
-├── architecture/
-├── data-quality/
-├── docs/
 ├── powerbi/
 ├── screenshots/
 ├── sql/
