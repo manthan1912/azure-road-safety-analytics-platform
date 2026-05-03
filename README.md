@@ -209,7 +209,7 @@ The dashboard shows:
 - Top 10 neighbourhoods by collision events
 - District slicer
 
-![Power BI Dashboard](screenshots/40-powerbi-road-safety-overview-dashboard.png)
+![Power BI Dashboard](screenshots/powerbi-road-safety-overview-dashboard.png)
 
 ---
 
